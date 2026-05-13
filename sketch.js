@@ -100,6 +100,10 @@ function setup() {
   fill(40);
   ellipse(originX + 65, originY + 165, 36, 36); // inner cap
 
+fill(60);
+ellipse(originX, originY, 64, 64); // another ring for testing
+
+
   // --- Right thumbstick ---
   fill(60);
   ellipse(originX + 235, originY + 165, 64, 64);
@@ -148,7 +152,7 @@ function setup() {
   fill(180);
   textSize(13);
   textAlign(CENTER);
-  text("controller.png", originX - 150, originY + 295);
+  text("hallway.png", originX - 150, originY + 295);
   text("drawn with shapes", originX + 150, originY + 295);
 
   // --- Dividing line between the two controllers ---
