@@ -16,6 +16,8 @@ function preload() {
   // loadImage() takes a file path relative to index.html
   // The image is stored in the variable so we can use it later
   controllerImg = loadImage("assets/images/hallway.jpg");
+  // [1] Retrieved from https://www.publicdomainpictures.net/en/view-image.php?image=16993&picture=empty-hallway
+
 }
 
 // ------------------------------------------------------------
