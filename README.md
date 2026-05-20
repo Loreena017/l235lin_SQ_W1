@@ -15,5 +15,4 @@
 | `assets/images/hallway.jpg` | Sourced from Google |
 
 ## References
-
-N/A
+[1] Retrieved from https://www.publicdomainpictures.net/en/view-image.php?image=16993&picture=empty-hallway
